@@ -1,0 +1,30 @@
+
+/* DATEI: format.css */
+
+body	{
+			background-color: 	white;	
+			font-family:		Arial;
+		
+}
+p		{
+			text-align:			center;
+		}			
+h1      { 
+           color:            black;
+		   background-color: white;
+        }
+h2		{
+			color: 			  blue;
+}
+ul		{
+			list-style-type:  circle; 
+}
+
+ol		{
+			list-style-type: lower-alpha; 
+}
+
+img		{
+			width: 30%;
+			height: 30%;
+}
